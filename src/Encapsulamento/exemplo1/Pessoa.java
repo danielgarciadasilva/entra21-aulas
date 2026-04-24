@@ -1,4 +1,4 @@
-package Encapsulamento;
+package Encapsulamento.exemplo1;
 
 public class Pessoa {
     private String nome;
