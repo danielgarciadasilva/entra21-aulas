@@ -1,6 +1,4 @@
-package POO.Basico.exercicios;
-
-import POO.Basico.exemplo1.Pessoa;
+package POO.Basico.exerciciosclase.Um;
 
 public class Principal {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package POO.Basico.exercicios;
+package POO.Basico.exerciciosclase.Um;
 
 public class Aluno {
         String nome;
