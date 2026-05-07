@@ -18,7 +18,7 @@ public class Exercicio01 {
         } else if (num < 0) {
             System.out.println("É Negativo");
         } else {
-            System.out.println("É Zero");
+            System.out.println("É zero");
         }
 
     }
